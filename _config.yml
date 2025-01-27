@@ -1,0 +1,10 @@
+title: "Ari Pereira"
+description: "Thoughts on Math and Physics"
+theme: jekyll-theme-minimal
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+mathjax:
+  enable: true
+# This turns on syntax highlighting if you need it
+highlighter: rouge
